@@ -1,6 +1,6 @@
 # Hi there! I'm **Muhammad Farhan Rajput**, a passionate and aspiring **MERN Stack Developer** and AI enthusiast.  
 
-![Shaikh Muhammad Usman - MERN Stack Developer](./banner.jpg)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 
 My journey revolves around building innovative and efficient web applications, contributing to the tech community, and continuously learning.<br><br>
 # 💫 About Me:
